@@ -45,7 +45,7 @@ After obtaining access, place the three files in a local `data/` directory. The 
 ## Repository Structure
 
 ```text
-Child-Stunting-Analysis/
+nigeria-stunting-ml/
 │
 ├── README.md
 ├── LICENSE
